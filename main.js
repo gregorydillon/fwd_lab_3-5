@@ -1,16 +1,11 @@
-// alert("be carefull");
-// confirm("Are you Sure");
-// prompt("were you careful");
-
-// var brushedTeeth=confirm("did you brush your teeth today");
+// Front-end Web Development
+// Assignment for Week 7
+// http://jeffreyatw.com/static/frontend/series6/class7/assignment.html
 
 
-// if(brushedTeeth){
-//   alert("yah, you've got hygine");
-// }
-
-var name = prompt("What is your name");
-typeof "name";
-
-[[{("Greg")}]]
+var x = 1000;
+var y = 234;
+var sum = x + y;
+var message = ("The sum of x and y are")+sum;
+alert(message);
 
